@@ -1,4 +1,4 @@
-# Melbourne OpenShiftMeetup Decks 2023
+# Melbourne OpenShiftMeetup Decks
 
 Meetup October 19 2023 Slides
 
